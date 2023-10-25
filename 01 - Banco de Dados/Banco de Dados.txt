@@ -1,0 +1,19 @@
+1 - Banco de Dados Relacionais.
+Um banco de dados relacional é um conjunto de informações que organiza dados em relações 
+predefinidas, em que os dados são armazenados em uma ou mais tabelas (ou "relações") de 
+colunas e linhas, facilitando a visualização e a compreensão de como as diferentes 
+estruturas de dados se relacionam. Os relacionamentos são uma conexão lógica entre 
+diferentes tabelas, estabelecidas com base na interação entre essas tabelas.
+
+2 - Banco de Dados Não Relacionais.
+
+A principal diferença entre bancos de dados relacionais e não relacionais 
+(bancos de dados NoSQL) é a forma como os dados são armazenados e organizados. 
+Os bancos de dados não relacionais não armazenam dados de maneira tabular baseada 
+em regras. Em vez disso, eles armazenam dados como arquivos individuais e não conectados 
+e podem ser usados para tipos de dados complexos e não estruturados, como documentos ou 
+arquivos rich media.
+
+Ao contrário dos bancos de dados relacionais, os bancos de dados NoSQL seguem um modelo 
+de dados flexível, o que os torna ideais para armazenar dados que mudam com frequência 
+ou para aplicativos que processam diversos tipos de dados. 

@@ -16,6 +16,4 @@ arquivos rich media.
 
 Ao contrário dos bancos de dados relacionais, os bancos de dados NoSQL seguem um modelo 
 de dados flexível, o que os torna ideais para armazenar dados que mudam com frequência 
-ou para aplicativos que processam diversos tipos de dados. 
-
-teste
+ou para aplicativos que processam diversos tipos de dados.

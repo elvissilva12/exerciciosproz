@@ -29,13 +29,13 @@ CREATE TABLE funcionario (
 
 INSERT INTO departamento (nome_departamento) VALUES
     ('Setor de T.I'),
-	('Setor Administrativo'),
+	  ('Setor Administrativo'),
     ('Setor Contábil'),
     ('RH');
     
     
 INSERT INTO funcionario (nome_funcionario, setor_id) VALUES
-	('Fernando', 1),
+	  ('Fernando', 1),
     ('Bruna', 2),
     ('Juliana', 3),
     ('Marcio', 3),

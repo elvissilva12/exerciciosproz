@@ -39,7 +39,7 @@ $$ LANGUAGE plpgsql;
  AFTER INSERT ON funcionario
  FOR EACH ROW EXECUTE PROCEDURE audit();
  
- -- Inserindo dados na tabela funcionário --
+ -- Inserindo dados na tabela funcionario --
  
  INSERT INTO funcionario (nome_funcionario) VALUES
     ('Fernando'),
@@ -47,7 +47,7 @@ $$ LANGUAGE plpgsql;
     ('Juliana'),
     ('Marcio');
     
--- Consultando a tabela funcionários com SELECT --
+-- Consultando a tabela funcionario com SELECT --
  
  SELECT * FROM funcionario
  

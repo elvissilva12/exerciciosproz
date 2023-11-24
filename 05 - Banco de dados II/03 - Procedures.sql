@@ -28,6 +28,8 @@ INSERT INTO VENDAS (dia_venda, quantidade_vendida, cod_produto) VALUES
     ('2023-11-15', 9, 4);
 	
 
+/* A procedure a seguir irá retornar as quantidades vendidas no dia referenciado na CALL (após o código da procedure) e também o nome do produto que foi vendido */
+
 CREATE OR REPLACE PROCEDURE relatorio_diario_quantidades(dia DATE) AS $$
 DECLARE
     nome_prod VARCHAR(50);
